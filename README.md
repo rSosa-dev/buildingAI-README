@@ -2,7 +2,7 @@
 
 This is the final project for the Building AI course.
 
-## My idea
+## Summary
 
 My AI idea will be an image classifier. It can be done with TensorFlow, a python library used for machine learning.
 The idea is to simulate a shop and the program will classify the photos we pass by their shape.
@@ -53,3 +53,5 @@ The photos have to be taken on a simple background, the main object must be easi
 ## What next?
 
 My AI knowledge cannot think any other new implementations to the program. 
+
+## Acknowledgments
