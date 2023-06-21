@@ -1,4 +1,4 @@
-## BuildingAI - My AI idea
+# BuildingAI - My AI idea
 
 This is the final project for the Building AI course.
 
